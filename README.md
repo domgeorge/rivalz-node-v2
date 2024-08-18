@@ -1,5 +1,17 @@
 <h2 align=center> Rivalz Node v2 </h2>
 
+---
+## System Specifications
+
+| Component        | Specification   |
+|------------------|-----------------|
+| **RAM**          | 4GB             |
+| **Cores**        | 4 Cores (2.2GHz) |
+| **Storage**      | 50GB SSD        |
+| **Internet Speed**| 1Mbps           |
+---
+## Installation
+
 - This node will not work on Gitpod/ Codespace
 - Install `screen` using the below commands
 ```bash
