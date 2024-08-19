@@ -41,9 +41,10 @@ wget https://raw.githubusercontent.com/dxzenith/rivalz-node-v2/main/rivalz.sh &&
 ```bash
   rivalz info
 ```
-- If it is not yours use
-```bash rivalz change-wallet```
-- to change it to your connected EVM
+- To change it to your connected EVM if what is displayed isn't yours use
+```bash
+rivalz change-wallet
+```
 - Goodluck
 
 - Forked from [ZunXBTs'](https://github.com/dxzenith/rivalz-node-v2) repo
