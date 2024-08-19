@@ -34,14 +34,16 @@ wget https://raw.githubusercontent.com/dxzenith/rivalz-node-v2/main/rivalz.sh &&
 
 - **NOTE**
 - If you get a feedback like *Node is running on another device...* then Rivalz is not installed. Install using the command:
-- ```bash
+```bash
   npm i -g rivalz-node-cli
-- ```
+```
 - Then check to make sure its your wallet using
 ```bash
   rivalz info
 ```
-- If it is not yours use ```bash rivalz change-wallet``` to change it to your connected EVM
+- If it is not yours use
+```bash rivalz change-wallet```
+- to change it to your connected EVM
 - Goodluck
 
 - Forked from [ZunXBTs'](https://github.com/dxzenith/rivalz-node-v2) repo
