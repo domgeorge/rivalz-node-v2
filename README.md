@@ -31,4 +31,15 @@ wget https://raw.githubusercontent.com/dxzenith/rivalz-node-v2/main/rivalz.sh &&
 - Enter your EVM wallet address which you connected during Registration
 - Allocate 95% stoarge to the node cli
 - Detach from the screen session using `Ctrl` + `A` + `D`
-- Done ✅, now you can close your terminal and can like this tweet 😁
+
+- **NOTE**
+- If you get a feedback like *Node is running on another device...* then Rivalz is not installed. Install using the command:
+- `npm i -g rivalz-node-cli`
+- Then check to make sure its your wallet using
+- `rivalz info`
+- If it is not yours use `rivalz change-wallet` to change it to your connected EVM
+- Goodluck
+
+- Forked from [ZunXBTs'](https://github.com/dxzenith/rivalz-node-v2) repo
+- Edited by Me please follow on twitter [click here](https://x.com/dwikevellan)
+- Follow [ZunXBT](https://x.com/zunxbt?s=21)
